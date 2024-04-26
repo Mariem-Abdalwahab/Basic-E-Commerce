@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mariem-Abdalwahab/Basic-E-Commerce/static/css/main.f117d2ef.css",
+    "main.js": "/Mariem-Abdalwahab/Basic-E-Commerce/static/js/main.ad760d31.js",
+    "static/js/453.994f744a.chunk.js": "/Mariem-Abdalwahab/Basic-E-Commerce/static/js/453.994f744a.chunk.js",
+    "static/media/three.jpeg": "/Mariem-Abdalwahab/Basic-E-Commerce/static/media/three.c1c6d2b0e2fdf94c7bb3.jpeg",
+    "static/media/logo.svg": "/Mariem-Abdalwahab/Basic-E-Commerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mariem-Abdalwahab/Basic-E-Commerce/index.html",
+    "main.f117d2ef.css.map": "/Mariem-Abdalwahab/Basic-E-Commerce/static/css/main.f117d2ef.css.map",
+    "main.ad760d31.js.map": "/Mariem-Abdalwahab/Basic-E-Commerce/static/js/main.ad760d31.js.map",
+    "453.994f744a.chunk.js.map": "/Mariem-Abdalwahab/Basic-E-Commerce/static/js/453.994f744a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f117d2ef.css",
+    "static/js/main.ad760d31.js"
+  ]
+}
